@@ -1,35 +1,29 @@
-# 💙 Hello there, I'm Mohammed Ali 💙  
+# 💠 Hello there, I'm Mohammed Ali 💠  
 
 Software Developer passionate about building scalable, cloud-native applications using .NET, Azure, and modern DevOps practices.  
 I enjoy designing distributed systems that are secure, efficient, and production-ready.
 
 ---
 
-## 🔭 Current Projects  
+## 🔭 Current Project
 
-- Architecting a **Cloud-based E-Commerce Microservices Platform** using  
-  **.NET, Angular, Docker, Kubernetes, and Azure AKS**.  
-- Implementing **CI/CD pipelines** in **Azure DevOps** with automated testing and blue-green deployments.  
-- Integrating **Azure AD B2C**, **Redis caching**, and **Ocelot API Gateway** for secure and high-performance APIs.
-
----
+Building a Shopping App powered by ASP.NET Core microservices and .NET 8, containerized with Docker and deployed on Azure Kubernetes Service (AKS).
+The system uses RabbitMQ with MassTransit for event-driven communication, YARP API Gateway for routing, and PostgreSQL, Redis, and SQL Server for data management.
+Designed with CQRS, MediatR, and Clean Architecture.
 
 ## 🌱 Currently Learning  
 
 - ☁️ **Microsoft Azure (AKS, App Service, Functions, Cosmos DB)**  
-- 🧠 **Azure DevOps Pipelines & Infrastructure as Code (Bicep / Terraform)**  
-- 🧩 **Microservices Communication with RabbitMQ & gRPC**  
+- 🧠 **Azure DevOps Pipelines & Infrastructure as Code (Bicep / Terraform)**    
 - ⚙️ **Advanced CI/CD Automation & GitHub Actions**  
 - 🔐 **Cloud Security & Identity (OAuth2, OpenID Connect, Azure AD)**  
-- 🧪 **Test-Driven Development (xUnit, Moq, Integration Testing)**  
-- 📊 **Distributed Monitoring with Application Insights & Serilog**
 
 ---
 
 ## 🧠 Skills & Knowledge  
 
 - Backend: **ASP.NET Core, C#, Entity Framework Core, Dapper**  
-- Frontend: **Angular, TypeScript, React**  
+- Frontend: **Angular, React**  
 - Databases: **SQL Server, PostgreSQL, MongoDB**  
 - DevOps: **Docker, Kubernetes, Azure AKS, Azure DevOps, GitHub Actions**  
 - Design Principles: **SOLID, Clean Architecture, Repository Pattern**  
@@ -61,8 +55,4 @@ I enjoy designing distributed systems that are secure, efficient, and production
 
 - **Email:** [mkarim.ali@outlook.com](mailto:mkarim.ali@outlook.com)  
 - **LinkedIn:** [linkedin.com/in/mkalii](https://linkedin.com/in/mkalii)  
-- **GitHub:** [github.com/Mommeeeh1](https://github.com/Mommeeeh1)  
 
----
-
-💬 *“Building reliable, scalable systems — one commit at a time.”*
