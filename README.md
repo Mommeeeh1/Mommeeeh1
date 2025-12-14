@@ -7,9 +7,8 @@ I enjoy designing distributed systems that are secure, efficient, and production
 
 ## 🔭 Current Project
 
-Building a Shopping App powered by ASP.NET Core microservices and .NET 8, containerized with Docker and deployed on Azure Kubernetes Service (AKS).
-The system uses RabbitMQ with MassTransit for event-driven communication, YARP API Gateway for routing, and PostgreSQL, Redis, and SQL Server for data management.
-Designed with CQRS, MediatR, and Clean Architecture.
+Building an E-Commerce platform using ASP.NET Core microservices (.NET 9), containerized with Docker and deployed on Azure Kubernetes Service. 
+Features event-driven architecture with Azure Service Bus and RabbitMQ, Ocelot API Gateway, multi-database support (PostgreSQL, MySQL, MongoDB), Redis caching, and Clean Architecture principles.
 
 ## 🌱 Currently Learning  
 
