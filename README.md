@@ -5,30 +5,18 @@ I enjoy designing distributed systems that are secure, efficient, and production
 
 ---
 
-## 🔭 Current Project
-
-Building an E-Commerce platform using ASP.NET Core microservices (.NET 9), containerized with Docker and deployed on Azure Kubernetes Service. 
-Features event-driven architecture with Azure Service Bus and RabbitMQ, Ocelot API Gateway, multi-database support (PostgreSQL, MySQL, MongoDB), Redis caching, and Clean Architecture principles.
-
-## 🌱 Currently Learning  
-
-- ☁️ **Microsoft Azure (AKS, App Service, Functions, Cosmos DB)**  
-- 🧠 **Azure DevOps Pipelines & Infrastructure as Code (Bicep / Terraform)**    
-- ⚙️ **Advanced CI/CD Automation & GitHub Actions**  
-- 🔐 **Cloud Security & Identity (OAuth2, OpenID Connect, Azure AD)**  
-
----
-
 ## 🧠 Skills & Knowledge  
 
-- Backend: **ASP.NET Core, C#, Entity Framework Core, Dapper**  
-- Frontend: **Angular, React**  
-- Databases: **SQL Server, PostgreSQL, MongoDB**  
-- DevOps: **Docker, Kubernetes, Azure AKS, Azure DevOps, GitHub Actions**  
-- Design Principles: **SOLID, Clean Architecture, Repository Pattern**  
-- Testing: **xUnit, Moq, Integration Testing, Test-Driven Development**  
-- Version Control: **Git, GitKraken, GitHub, Azure Repos**  
-- Cloud: **Azure (AKS, App Service, Key Vault, Storage, AD B2C)**  
+- Backend: ASP.NET Core, C#, Entity Framework Core, Dapper, Node.js, Express.js, TypeScript, Prisma ORM, Socket.io
+- Frontend: Angular, React, Next.js, TailwindCSS
+- Databases: SQL Server, PostgreSQL, MongoDB, Prisma ORM
+- DevOps: Docker, Docker Compose, Kubernetes, Azure AKS, Azure DevOps, GitHub Actions
+- Design Principles: SOLID, Clean Architecture, Repository Pattern
+- Testing: xUnit, Moq, Jest, Integration Testing, Test-Driven Development
+- Version Control: Git, GitKraken, GitHub, Azure Repos
+- Cloud: Azure (AKS, App Service, Key Vault, Storage, AD B2C)
+- AI/ML: Ollama, LLM Integration
+- Security: JWT Authentication, Rate Limiting, CORS, Helmet.js  
 
 ---
 
