@@ -1,22 +1,11 @@
 # 💠 Hello there, I'm Mohammed Ali 💠  
 
-Software Developer passionate about building scalable, cloud-native applications using .NET, Azure, and modern DevOps practices.  
-I enjoy designing distributed systems that are secure, efficient, and production-ready.
+System Engineer building full-stack, production-ready systems with TypeScript,
+Node.js, .NET, and Azure. Focused on payment integrations, microservices architecture,
+and scalable cloud-native solutions across real-world products.
 
 ---
 
-## 🧠 Skills & Knowledge  
-
-- Backend: ASP.NET Core, C#, Entity Framework Core, Dapper, Node.js, Express.js, TypeScript, Prisma ORM, Socket.io
-- Frontend: Angular, React, Next.js, TailwindCSS
-- Databases: SQL Server, PostgreSQL, MongoDB, Prisma ORM
-- DevOps: Docker, Docker Compose, Kubernetes, Azure AKS, Azure DevOps, GitHub Actions
-- Design Principles: SOLID, Clean Architecture, Repository Pattern
-- Testing: xUnit, Moq, Jest, Integration Testing, Test-Driven Development
-- Version Control: Git, GitKraken, GitHub, Azure Repos
-- Cloud: Azure (AKS, App Service, Key Vault, Storage, AD B2C)
-- AI/ML: Ollama, LLM Integration
-- Security: JWT Authentication, Rate Limiting, CORS, Helmet.js  
 
 ---
 
